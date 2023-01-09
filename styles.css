@@ -29,10 +29,10 @@ body {
     display: flex;
     justify-content: space-around;
     text-align: center;
-    background: #e9edc9;
+    background: #edf6f9;
     color: #343a40;
-    border-bottom: 6px solid #d4a373;
-    border-right: 6px solid #d4a373;
+    border-bottom: 6px solid #83c5be;
+    border-right: 6px solid #83c5be;
     border-radius: 4px;
     /* box-shadow: 1px 1px 6px #000000; */
         
